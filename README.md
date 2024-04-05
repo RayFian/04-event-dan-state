@@ -40,3 +40,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 | NIM |  2141720260|
 | Nama |  Raynor Herfian Iqbal Fawwaz |
 | Kelas | TI - 3I |
+
