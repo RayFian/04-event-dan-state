@@ -1,3 +1,4 @@
+"use client";
 import Image from "next/image";
 import Tombol_1 from "@/components/button";
 
