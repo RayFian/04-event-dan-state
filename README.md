@@ -45,3 +45,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ![alt text](image.png)
 1. The page reach the end of the index and return error message "Cannot read properties of undefined"
+
+2. 
+![alt text](image-1.png)
+
+3. 
+![alt text](image-2.png)
+
+![alt text](image-3.png)
