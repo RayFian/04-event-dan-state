@@ -2,6 +2,8 @@
 import Image from "next/image";
 import Tombol_1, {Tombol_2, Tombol_3} from "@/components/button";
 import Gallery from "@/components/gallery";
+import Form from "@/components/form";
+import Accordion from "@/components/accordion";
 
 export default function Home() {
   return (
@@ -20,6 +22,9 @@ export default function Home() {
       </div>
       <br></br>
       <Gallery/>
+      <br></br>
+      <Form />
+      <Accordion />
     </>
   );
 }

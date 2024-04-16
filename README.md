@@ -53,3 +53,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ![alt text](image-2.png)
 
 ![alt text](image-3.png)
+
+## Praktikum 5
+![alt text](image-4.png)
+
+Appear error
+
+## Praktikum 6
+![alt text](image-5.png)
+
+
